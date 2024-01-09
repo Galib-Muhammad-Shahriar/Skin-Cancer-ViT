@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-2257-6751"
 title: "Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System"
 version: 1.0.0
-DOI: 10.5281/zenodo.10449627
+DOI: 10.5281/zenodo.10474057
 date-released: 2024-01-09
 url: "https://github.com/Galib-Muhammad-Shahriar/Skin-Cancer-ViT"
